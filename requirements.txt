@@ -1,0 +1,6 @@
+mss
+cv2
+numpy
+pyautogui
+pytesseract
+fuzzywuzzy
